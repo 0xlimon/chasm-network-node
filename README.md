@@ -37,7 +37,7 @@ Ensure your server meets these specifications before proceeding with the install
    Download the installation script using the following command:
 
    ```bash
-   wget -O https://raw.githubusercontent.com/0xlimon/chasm-network-node/master/chasm_wizard.sh
+   curl -O https://raw.githubusercontent.com/0xlimon/chasm-network-node/master/chasm_wizard.sh
    ```
 
 2. **Run the Script**
